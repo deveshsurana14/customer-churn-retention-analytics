@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Customer Churn Retention Analytics — Dashboard PDF  (clean rebuild)
-8 pages · max 3 charts per page · verified non-overlapping layout
+Generates the PDF analytics report for the customer churn project.
+Run this after the notebooks to get reports/Customer_Churn_Analytics_Dashboard.pdf
 """
 
 import pandas as pd
