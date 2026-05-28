@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.joblib
+.DS_Store
+.env
+
+# Database files
+*.db
+
+# Data files (large, reproducible from notebooks)
+data/processed/
+data/raw/
+
+# Generated reports
+reports/
+
+# Trained model artifacts
+models/
+
+# OS artifacts
+Thumbs.db
+desktop.ini
+
+# Claude Code session memory
+.claude/
