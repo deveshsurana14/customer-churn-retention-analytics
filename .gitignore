@@ -13,8 +13,6 @@ __pycache__/
 data/processed/
 data/raw/
 
-# Generated reports
-reports/
 
 # Trained model artifacts
 models/
