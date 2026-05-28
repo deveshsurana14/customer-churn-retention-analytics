@@ -43,7 +43,7 @@ A data analytics project on the IBM Telco Customer Churn dataset. The goal was t
 - **Streamlit dashboard** : interactive filters, risk scoring, customer-level breakdown
 - **PDF report** : 8-page summary you can share without running anything
 
-The dataset has 7,032 customers and a 26.6% churn rate. The model hits ~0.86 AUC.
+The dataset has 7,032 customers and a 26.6% churn rate. The model hits 0.83 AUC with 93% recall on churners after threshold optimization.
 
 ---
 
