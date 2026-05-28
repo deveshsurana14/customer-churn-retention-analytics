@@ -4,6 +4,37 @@ A data analytics project on the IBM Telco Customer Churn dataset. The goal was t
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/01_churn_distribution.png" width="420"/></td>
+    <td><img src="images/02_churn_by_contract.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Churn Distribution</em></td>
+    <td align="center"><em>Churn by Contract Type</em></td>
+  </tr>
+  <tr>
+    <td><img src="images/13_shap_feature_importance.png" width="420"/></td>
+    <td><img src="images/14_shap_beeswarm.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>SHAP Feature Importance</em></td>
+    <td align="center"><em>SHAP Beeswarm Plot</em></td>
+  </tr>
+  <tr>
+    <td><img src="images/09_roc_curve.png" width="420"/></td>
+    <td><img src="images/11_confusion_matrix.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>ROC Curve (AUC ~0.86)</em></td>
+    <td align="center"><em>Confusion Matrix</em></td>
+  </tr>
+</table>
+
+---
+
 ## What's in here
 
 - **EDA notebook** : initial exploration, cleaning, visualizations
